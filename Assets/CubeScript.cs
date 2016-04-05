@@ -5,7 +5,7 @@ public class CubeScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+		print ("hit me good");
 	}
 	
 	// Update is called once per frame
